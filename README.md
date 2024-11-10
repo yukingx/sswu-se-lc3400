@@ -1,1 +1,1 @@
-# sswu-se-lc3400
+# Software Engineering (SE-LC003400)
