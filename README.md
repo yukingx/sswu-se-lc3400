@@ -1,4 +1,4 @@
-# Software Engineering (SE-LC003400)
+# Software Engineering (SE-LC003400) at SSWU
 
 ### Chap 6. Design Principle
 - Code Examples to be uploaded
