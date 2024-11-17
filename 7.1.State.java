@@ -1,3 +1,5 @@
+/* SE Week 11 - State Pattern */
+
 // Document 클래스
 public class Document {
     private String state;  // 상태를 나타내는 필드
