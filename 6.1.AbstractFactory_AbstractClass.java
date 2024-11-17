@@ -1,3 +1,5 @@
+/* SE Week 11 - Abstract Factory Pattern */
+
 // 미디어 추상 클래스 (CD와 LP)
 abstract class Media {
     public abstract void play();
