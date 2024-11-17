@@ -1,3 +1,5 @@
+/* SE Week 11 - Factory Method Pattern */
+
 // AbstractSUV: SUV 제품의 인터페이스
 public interface AbstractSUV {
     void operation();

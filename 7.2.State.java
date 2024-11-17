@@ -1,3 +1,5 @@
+/* SE Week 11 - State Pattern */
+
 // State 인터페이스
 public interface State {
     void doThis();

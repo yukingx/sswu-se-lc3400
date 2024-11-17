@@ -1,3 +1,5 @@
+/* SE Week 11 - Abstract Factory Pattern */
+
 // 미디어 인터페이스 (CD와 LP)
 interface Media {
     void play();

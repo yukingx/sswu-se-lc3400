@@ -1,3 +1,5 @@
+/* SE Week 11 - Observer Pattern */
+
 // 옵저버 인터페이스
 interface Observer {
     void update(String message);
