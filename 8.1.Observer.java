@@ -1,3 +1,5 @@
+/* SE Week 11 - Observer Pattern */
+
 import java.util.ArrayList;
 import java.util.List;
 
