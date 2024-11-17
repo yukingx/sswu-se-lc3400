@@ -1,3 +1,5 @@
+/* SE Week 11 - Factory Method Pattern */
+
 // AbstractSUV: 제품의 인터페이스 또는 추상 클래스
 public abstract class AbstractSUV {
     public abstract void operation();
