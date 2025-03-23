@@ -2,7 +2,7 @@
 ## 2024 Fall Semester at SSWU
 
 ### Chap 6. Design Principle
-- Code Examples to be uploaded
+- Code Examples
 
 ### Chap 7. Architecture Design and Pattern
 - Singleton Pattern
